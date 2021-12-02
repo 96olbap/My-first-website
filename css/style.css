@@ -1,0 +1,27 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+h2{
+  color: lime;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+  color: black;
+  font-family: courier;
+}
+ol{
+  line-height: 20px;
+}
+strong{
+  font-style: italic;
+
+}
+em{
+  font-weight: bold;
+}
